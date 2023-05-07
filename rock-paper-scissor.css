@@ -1,0 +1,39 @@
+body{
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: Arial;
+}
+
+.heading{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.play-element{
+  font-size: 47px;
+  height: 120px;
+  width: 120px;
+  margin-right: 12px;
+  border-radius: 100%;
+  background-color: rgb(25, 25, 25);
+  color: white;
+  border-style: solid;
+  border-color: white;
+}
+
+.result{
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.moves{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.reset-button{
+  font-family: Arial;
+  padding: 10px;
+  font-size: 15px;
+}
